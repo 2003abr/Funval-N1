@@ -2,3 +2,27 @@ h1{
     color: rgb(138, 115, 174);
     text-align: center;
 }
+body{
+    background-color: rgb(190, 208, 211);
+}
+.jesucristo{
+    height: 200px;
+    width: 200px;
+}
+
+img{
+    border-radius: 100px;
+}
+h2{
+    color: rgb(196, 35, 161);
+}
+p{
+    color: rgb(79, 16, 86);
+    font-size: 30px;
+}
+dl{
+    color: white;
+}
+li{
+    color: rgb(151, 74, 151);
+}
