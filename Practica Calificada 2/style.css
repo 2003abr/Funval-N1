@@ -36,6 +36,26 @@ body{
     cursor: pointer;
 }
 
+
+.password{
+    background-color: black;
+    margin-top: 0%;
+    border: 2px solid grey;
+}
+
+.text{
+    background-color: black;
+    border-color: 2px solid grey;
+}
+
+
+
+
+
+
+
+
+
 .formulario{
     border: 1px rgb(135, 135, 135) solid;
     text-align: center;
