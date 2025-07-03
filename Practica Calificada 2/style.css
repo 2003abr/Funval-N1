@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, 
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(25, 25, 25);
+}
+
+
+
+.subtitulo{
+    color: #dbdbdb;
+    font-family: cursive;
+    text-align: center;
+    
+}
+
+
+
+.btn{
+    width: 100%;
+    padding: 10px;
+    background-color:#0095f6;
+    border: none;
+    color: rgb(229, 229, 229);
+    font-weight: bold;
+    border-radius: 4px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.formulario{
+    border: 1px rgb(135, 135, 135) solid;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 200px 60px;
+    gap: 3px;
+    background-color: rgb(5, 4, 4);
+}
+h3{
+    color: blue;
+    text-align: center;
+}
+.con{
+    color: white;
+}
